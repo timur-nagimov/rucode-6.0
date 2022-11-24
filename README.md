@@ -1,6 +1,7 @@
 NLP задача `Исправление ошибок`, Rucode 6.0
 
 ***Примечание: *** библиотека FastText работает только на MacOS и Linux.
+
 ***Ссылка на colab решения: *** https://colab.research.google.com/drive/1ye3yA0MOVHUc7roRSUjauVYQyBeZR49x?usp=sharing
 
 ## Описание задачи
